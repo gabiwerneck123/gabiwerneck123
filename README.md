@@ -1,7 +1,7 @@
 # Gabriela Werneck
 
 Olá!  
-Me chamo **Gabriela Werneck**, tenho 17 anos e atualmente curso o 2º ano de **Desenvolvimento de Sistemas** na unidade Firjan SESI SENAI de **Petrópolis**.  
+Me chamo **Gabriela Werneck**, tenho 17 anos e atualmente curso o 2º ano do Ensino Médio e o 2º ano do curso de **Desenvolvimento de Sistemas** na unidade Firjan SESI SENAI de **Petrópolis**.  
 
 Apesar de estar na área da tecnologia, minha verdadeira vocação é a **Pedagogia**, área pela qual sou completamente apaixonada e pretendo seguir minha carreira profissional.
 
