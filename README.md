@@ -13,8 +13,11 @@ Apesar de estar na área da tecnologia, minha verdadeira vocação é a **Pedago
 
 ## 📱 Redes Sociais
 
-- Instagram: [@gabriela.werneck.792](https://www.instagram.com/gabriela.werneck.792)
-- LinkedIn: [linkedin.com/in/gabriela-dos-santos-werneck](https://www.linkedin.com/in/gabriela-dos-santos-werneck-881374309/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriela.werneck.792)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-dos-santos-werneck-881374309/)
+
+
 > ✨ *Crux sacra sit mihi lux* ✨
 
 
