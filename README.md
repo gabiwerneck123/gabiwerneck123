@@ -18,7 +18,7 @@ Apesar de estar na área da tecnologia, minha verdadeira vocação é a **Pedago
 > ✨ *Crux sacra sit mihi lux* ✨
 
 
-## Crux sacra sit mihi lux✨ 
+
 <!--
 **gabiwerneck123/gabiwerneck123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
